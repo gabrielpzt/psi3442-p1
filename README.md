@@ -11,7 +11,7 @@ NUSP: 12551578
 ## Instalação
 
 1. Crie um ROS workspace e adicione o pacote `iris_sim/`. É necessário estar usando o ROS Noetic.
-2. Copie a pasta `.gazebo/models/` para o diretório do gazebo.
+2. Copie a pasta `models/` para o diretório do gazebo.
 3. Configure as variáveis de environment com:
 
 ```shell
